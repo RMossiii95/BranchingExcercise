@@ -7,7 +7,8 @@ namespace BranchingTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Salve munde!");
+            Console.WriteLine("Spaghetti");
+            Console.WriteLine("French Fries");
         }
     }
 }
